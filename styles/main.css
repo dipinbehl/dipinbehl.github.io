@@ -1,0 +1,35 @@
+html{
+	background-color:#f6f6f6;
+	color:#a29797;
+}
+
+#message span{	
+	font-size:24px;
+	font-weight:bold;
+	font-stretch:stretch;	
+	display:inline-block;
+	margin-left:5px;
+	padding-top:10px;
+}
+
+#message h1{	
+	background-image:url('../images/coffee-stain-300x300.png');
+	background-repeat:no-repeat;
+	background-position:left top;
+	min-height:300px;
+	display:inline-block;
+	font-size:90px;
+	font-weight:bold;
+	font-stretch:stretch;
+	color:#00c805;
+	padding:150px 0px 0px 270px;
+}
+#links a{
+	display:inline-block;
+	margin-right:20px;
+	margin-top:8px;
+}
+#links a img{
+	height:40px;
+	width:40px;
+}
